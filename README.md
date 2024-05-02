@@ -1,5 +1,5 @@
-# Mi clase 01 Inmersión Java Alura :tw-1f4d2:
-### Autor: Edwin Ramirez :tw-1f60e:
+# Mi clase 01 Inmersión Java Alura
+### Autor: Edwin Ramirez 
 
 ## Primeros Pasos
 <p>
