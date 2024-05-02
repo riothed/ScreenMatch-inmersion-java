@@ -42,4 +42,4 @@ Para este proyecto se estudio varios códigos que se indican a continuación:
 </ul>
 
 ## Adaptación del código con el Bucle While
- <h1> <img src="C:\Users\edwin\Desktop\Java inmersion\screenmatch/bucleWhile.png"> </h1>
+ <h1> <img src="bucleWhile.png"> </h1>
